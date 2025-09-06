@@ -61,7 +61,7 @@ int main(){
   printf("PIB: %.2f \n", pib1);
   printf("Pontos turísticos: %d \n", qtdPontosTuristico1); 
         
-  printf("Carta 1:\n");
+  printf("Carta 2:\n");
   printf("Estado: %c \n",estado2);
   printf("Código: %c%s", estado2, codigoCarta2);
   printf("Nome da Cidade: %s \n", cidade2);
